@@ -4,7 +4,7 @@
 
 -   Libraries: TensorFlow | Keras | Numpy | Pandas | Scikit-Learn | matplotlib | seaborn
 
-## Big Data and Machine Learning issues:
+## Big Data and Deep Learning issues:
 
 -   Predicting Madird-Airbnb prices
 -   Exploratory data analysis
